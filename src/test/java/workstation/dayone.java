@@ -1,6 +1,6 @@
-package com.nexttech.GITHUB;
+package workstation;
 
-public class asdf {
+public class dayone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
